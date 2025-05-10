@@ -202,6 +202,217 @@ div class="container--0-">
   </div>
 </div>
 
+CSS code
+
+Home.html
+
+.container--0- {
+  position: absolute;
+  left: -21px;
+  top: 96px;
+  width: 379px;
+  height: 908px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-1 {
+  width: 302px;
+  height: 98px;
+  color: #d63fb5;
+  font-size: 48px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-3 {
+  width: 143px;
+  height: 46px;
+  color: #ffffff;
+  font-size: 32px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-5 {
+  width: 227px;
+  height: 57px;
+  color: #ffffff;
+  font-size: 32px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.container-0-1-6 {
+  position: absolute;
+  left: 325px;
+  top: 856px;
+  width: 50px;
+  height: 1px;
+  justify-content: start;
+  align-items: start;
+}
+
+Event.html
+.container--0- {
+  position: absolute;
+  left: 406px;
+  top: 104px;
+  width: 382px;
+  height: 922px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-2 {
+  width: 206px;
+  height: 47px;
+  color: #ffffff;
+  font-size: 32px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-5 {
+  width: 260px;
+  height: 501px;
+  color: #ffffff;
+  font-size: 32px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: left;
+  vertical-align: top;
+}
+
+Form.html
+
+.container--0- {
+  position: absolute;
+  left: 835px;
+  top: 87px;
+  width: 391px;
+  height: 939px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-3 {
+  width: 284px;
+  height: 66px;
+  color: #ffffff;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-5 {
+  width: 242px;
+  height: 54px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-7 {
+  width: 148px;
+  height: 46px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-9 {
+  width: 222px;
+  height: 50px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-11 {
+  width: 247px;
+  height: 63px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-13 {
+  width: 164px;
+  height: 29px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-15 {
+  width: 170px;
+  height: 55px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-16 {
+  width: 169px;
+  height: 36px;
+  color: #d63fb5;
+  font-size: 22px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+.text-0-1-18 {
+  width: 300px;
+  height: 88px;
+  color: #ffffff;
+  font-size: 29px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+
+End.html
+.container--0- {
+  position: absolute;
+  left: 1252px;
+  top: 104px;
+  width: 380px;
+  height: 922px;
+  background-color: #ffffff;
+  justify-content: start;
+  align-items: start;
+}
+.text-0-1-1 {
+  width: 404px;
+  height: 449px;
+  color: #ffffff;
+  font-size: 32px;
+  font-family: Readex Pro, "Bold";
+  font-weight: 700;
+  text-align: center;
+  vertical-align: top;
+}
+
 ```
 
 # OUTPUT:
